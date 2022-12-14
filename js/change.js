@@ -2,8 +2,8 @@
 const w = document.querySelector('#width-div'),
     h = document.querySelector('#height-div'),
     r = document.querySelector('#red-div'),
-    b = document.querySelector('#green-div'),
-    g = document.querySelector('#blue-div'),
+    g = document.querySelector('#green-div'),
+    b = document.querySelector('#blue-div'),
     t = document.querySelector('#top-div'),
     l = document.querySelector('#left-div'),
     box = document.querySelector('#box');
